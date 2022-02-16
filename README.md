@@ -11,7 +11,7 @@ P2P trading allows for the avoidance of third parties while maintaining the cens
 
 ![Bitcoin a klid](https://user-images.githubusercontent.com/61149543/154226607-d56b75f3-624a-4230-b86a-ce3cdcedab64.png)
 
-Our historical experience teaches us about the benefits of p2p trading. Ask central/eastern Europeans about the veksel of fartsovka. 
+Our historical experience teaches us about the benefits of p2p trading. Ask central/eastern Europeans about the veksel or fartsovka. 
 
 ## Current solutions
 
@@ -120,7 +120,7 @@ Keeping anonymity and trust at the same time is another challenge. Zero knowledg
 
 You can see the market at work as people are asking for fees, bigger price spread when it significantly moves up or down. People are only selling with premiums at the lowest dips. Generally, this is caused by limited liquidity in the group. Some clever group members are using hedging to offer liquidity even at the lowest dips. A derivative market or decentralised loan on Ethereum enables anybody to make a profit by selling crypto with a small fee at any price level. [Vekslosh](https://github.com/Kixunil/vekslosh/) or other software which makes it easy for end users to bring even more liquidity to the market. 
 
-Surprisingly, people are generally friendly, cooperative, and even make friendships. It seems like the community is not that toxic if they are not on the bluebird app.
+Surprisingly, people are generally friendly, cooperative, and even make friendships. People are making contacts and exchanging even goods, food, building little parallel economy. It seems like the community is not that toxic if they are not on the bluebird app. 
 
 Check also [p2p exchange protocol repo](https://gitlab.com/sovereign-individuals/p2p-exchange-protocol) for similiar iniative from the community. A bunch of other groups inspired by LN veksel emerged, mostly local groups within the cities. But there is never enough of them. With all this knowledge, go ahead and create your own! 
 
