@@ -92,7 +92,7 @@ The LN group covers whole Czechoslovakia and further. Cash is still popular, mos
 
 # Group rules
 
-Make sure each member understands the rules. This should include verifying he has a crypto wallet and knows how to use it. Check out an example of the rules for the LN p2p group.  
+Make sure each member understands the rules. This should include verifying he has a crypto wallet and knows how to use it. Check out an [example of the rules for the LN p2p group](/rules.md).  
 
 # Scaling and improvement ideas
 
@@ -122,6 +122,6 @@ You can see the market at work as people are asking for fees, bigger price sprea
 
 Surprisingly, people are generally friendly, cooperative, and even make friendships. It seems like the community is not that toxic if they are not on the bluebird app.
 
-A bunch of other groups inspired by LN veksel emerged, mostly local groups within the cities. But there is never enough of them. With all this knowledge, go ahead and create your own! 
+Check also [p2p exchange protocol repo](https://gitlab.com/sovereign-individuals/p2p-exchange-protocol) for similiar iniative from the community. A bunch of other groups inspired by LN veksel emerged, mostly local groups within the cities. But there is never enough of them. With all this knowledge, go ahead and create your own! 
 
 ![LN Bisq](https://user-images.githubusercontent.com/61149543/154251311-0c1fbd36-2c48-4673-8732-ab172fad4dc3.png)
