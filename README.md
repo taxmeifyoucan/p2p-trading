@@ -123,3 +123,5 @@ You can see the market at work as people are asking for fees, bigger price sprea
 Surprisingly, people are generally friendly, cooperative, and even make friendships. It seems like the community is not that toxic if they are not on the bluebird app.
 
 A bunch of other groups inspired by LN veksel emerged, mostly local groups within the cities. But there is never enough of them. With all this knowledge, go ahead and create your own! 
+
+![LN Bisq](https://user-images.githubusercontent.com/61149543/154251311-0c1fbd36-2c48-4673-8732-ab172fad4dc3.png)
