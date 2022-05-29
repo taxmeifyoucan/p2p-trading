@@ -11,7 +11,7 @@ P2P trading allows for the avoidance of third parties while maintaining the cens
 
 ![Bitcoin a klid](https://user-images.githubusercontent.com/61149543/154226607-d56b75f3-624a-4230-b86a-ce3cdcedab64.png)
 
-Our historical experience teaches us about the benefits of p2p trading. Ask central/eastern Europeans about the veksel or fartsovka. 
+Our historical experience teaches us about the benefits of p2p trading. Ask central Europeans about veksel (coming from the German word Wechsel) or the Russian equivalent, fartsovka. 
 
 ## Current solutions
 
@@ -21,6 +21,7 @@ Indeed, there are many solutions, I recommend you check first:
 
 * Bisq
 * HodlHodl
+* [RoboSats](https://github.com/reckless-satoshi/robosats)
 * Paxful
 * LocalCoinSwap
 * Bitzlato
