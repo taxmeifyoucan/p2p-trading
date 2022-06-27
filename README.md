@@ -22,6 +22,7 @@ Indeed, there are many solutions, I recommend you check first:
 * Bisq
 * HodlHodl
 * [RoboSats](https://github.com/reckless-satoshi/robosats)
+* [lnp2pbot](https://github.com/grunch/p2plnbot)
 * Paxful
 * LocalCoinSwap
 * Bitzlato
