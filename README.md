@@ -20,6 +20,7 @@ Platforms for P2P marketplaces already exist. Why reinvent the wheel? 
 Indeed, there are many solutions, I recommend you check first:
 
 * Bisq
+* [Vexl](https://vexl.it/) 
 * HodlHodl
 * [RoboSats](https://github.com/reckless-satoshi/robosats)
 * [lnp2pbot](https://github.com/grunch/p2plnbot)
