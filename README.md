@@ -29,9 +29,10 @@ Indeed, there are many solutions, I recommend you check first:
 * Bitzlato
 * LocalCryptos
 * Binance P2P
+* Peach Bitcoin
 * Or agregators like Monetory
 
-These marketplaces enable you to buy crypto from other users somewhat directly. They aim to be global and use escrow or multisig with a third-party arbiter to assure the security of trading. This adds significant overhead for smaller traders and newbies. In some cases, you need crypto collateral to lock within multisig, which blocks new users. It is still easier for people to use KYC CEXs than these p2p platforms.
+These marketplaces enable you to buy crypto from other users somewhat directly. They aim to be global platforms connecting local people and mostly use an escrow model or multisig with a third-party arbiter to assure the security of trading. This adds significant overhead for smaller traders and newbies. In some cases, you need crypto collateral to lock within multisig, which blocks new users. It is still easier for people to use KYC CEXs than these p2p platforms.
 
 ## Web of trust groups
 
@@ -60,7 +61,7 @@ Important Signal features to consider in secure p2p trading:
 * E2E encryption
   * no brainer, maybe if it is some self-hosted platform I would consider it not needed but pls encrypt everything) 
 * Disappearing messages
-  * Turn them on, 2 days are the sweet spot from our experience 
+  * Keeps only current bids, enhances privacy, 2-4 days are the sweet spot from our experience
 * Perfect forward secrecy
   * New members have no idea about previous trades
 * Groups work well 
