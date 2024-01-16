@@ -19,6 +19,7 @@ Platforms for P2P marketplaces already exist. Why reinvent the wheel? 
 
 Indeed, there are many solutions, I recommend you check first:
 
+* [AgoraDesk](https://agoradesk.com/)
 * Bisq
 * [Vexl](https://vexl.it/) 
 * HodlHodl
